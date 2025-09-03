@@ -8,7 +8,7 @@
 
 ## 📊 What I’ve Done  
 - Analyzed datasets in **Looker** to track KPIs and business performance  
-- Built **interactive dashboards and reports** to support decision-making  
+- Built **interactive dashboards and reports in Looker** to support decision-making  
 - Used **Google Sheets** for cleaning, analysis, and trend forecasting  
 
 ## 🌱 What I’m Working On  
