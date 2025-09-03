@@ -1,6 +1,4 @@
-👋 About Me  
-
-Hi, I’m **Klaudia** — a data enthusiast with hands-on experience in **data analysis using Looker and Excel/Google Sheets**. I enjoy transforming raw data into actionable insights and helping teams make smarter decisions.  
+👋 Hi, I’m **Klaudia** — a data enthusiast with hands-on experience in **data analysis using Looker and Excel/Google Sheets**. I enjoy transforming raw data into actionable insights and helping teams make smarter decisions.  
 
 ## 🔎 Skills & Tools  
 - **Data Analysis:** SQL, Excel, Google Sheets  
